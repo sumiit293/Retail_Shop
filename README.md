@@ -1,6 +1,6 @@
 ## Retail_Shop
 
-# prototype of e-commerce  
+## prototype of e-commerce  
 
 -> Built with react and nodejs(express);
 
