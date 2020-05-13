@@ -2,7 +2,7 @@
   "name": "retail_shop",
   "version": "1.0.0",
   "engines": {
-    "node": "v12.14.0"
+    "node": "v12.x"
   },
   "description": "A retail store ",
   "main": "server.js",
