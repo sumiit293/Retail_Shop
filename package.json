@@ -1,6 +1,9 @@
 {
   "name": "retail_shop",
   "version": "1.0.0",
+  "engines": {
+    "node": "v12.14.0"
+  },
   "description": "A retail store ",
   "main": "server.js",
   "dependencies": {
