@@ -2,7 +2,7 @@ import React, { Fragment, useContext } from 'react'
 import { useHistory } from 'react-router-dom'
 const OrderPage = ({ orderdetail }) => {
 
-    const { address, name, phone, total, createdAt } = orderdetail;
+    const { address, name, phone, total, createdAt, date } = orderdetail;
 
     const history = useHistory();
 
